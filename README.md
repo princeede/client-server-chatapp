@@ -1,5 +1,5 @@
 # client-server-chatapp
-An implement of client server protocol in Java.
+A Socket implementation of client server protocol in Java using TCP.
 The server allow clients to...
  * create chat-rooms
  * list all existing rooms

@@ -16,3 +16,5 @@ The client provides an interface that enables a user to
 * leave chat-rooms
 
 If the user connects to a chat-room all previously sent messages of that room would be displayed. New messages sent by the user or other connected users are also been displayed.
+
+Once created, chat-rooms store all data (messages sent to the room) for as long as they exist. If a chat-room has not been used for more than 7 days, it will be destroyed. 
